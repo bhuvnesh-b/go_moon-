@@ -91,7 +91,7 @@ class HomePage extends StatelessWidget {
 
   Widget _bookride(){
     return Container(
-      height: _deviceHeight*.25,
+      height: _deviceHeight*.26,
       child: Column(
       mainAxisAlignment: MainAxisAlignment.spaceBetween,
       crossAxisAlignment: CrossAxisAlignment.center,
